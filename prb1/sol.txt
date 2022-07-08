@@ -1,0 +1,5 @@
+rollno name age salary
+1 naveen 22 10000
+2 ravi 75 35778
+3 satish 43 4600
+4 varun 36  87000
